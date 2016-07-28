@@ -1,0 +1,39 @@
+body{
+	background-color: #f1f7f3;
+	height: 1000px;
+	font-family: "Arial";
+}
+.info {
+	width: 70%;
+	margin:0 auto;
+}
+h1 {
+	font-size: 30px;
+	text-align: center;
+}   
+
+.foto {
+	text-align: center;
+}
+h2 {
+	font-size: 20px;
+}
+p, li {
+	color: #3a3a3a;
+	font-size: 15px;
+
+}
+.telephone,
+.feedback{
+	margin-left: 30px;
+}
+a {
+	color: #1589D5;
+	padding-left: 30px;
+	font-style: italic;
+	font-weight: bold;
+}
+.line_1,
+.line_2 {
+	color: DCDCDC;
+}
