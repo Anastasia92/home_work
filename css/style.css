@@ -4,7 +4,7 @@ body{
 	font-family: "Arial";
 }
 .info {
-	width: 40%;
+	width: 70%;
 	margin:0 auto;
 }
 h1 {
@@ -35,5 +35,5 @@ a {
 }
 .line_1,
 .line_2 {
-	color: #DCDCDC;
+	color: DCDCDC;
 }
